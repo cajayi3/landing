@@ -1,0 +1,8 @@
+.body{
+    background-image: url('/static/image/back.jpg');
+    background-color: black;
+}
+
+.nav-link{
+    color: white;
+}
